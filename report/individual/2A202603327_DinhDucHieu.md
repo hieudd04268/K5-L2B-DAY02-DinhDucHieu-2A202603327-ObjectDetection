@@ -4,12 +4,12 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
-- Link Colab đã chạy:
+- Họ tên: Đinh Đức Hiếu
+- MSSV: 2A202603327
+- Email: 26ai.hieudd3@vinuni.edu.vn
+- Lớp: L2B
+- Link repo bài làm: https://github.com/hieudd04268/K5-L2B-DAY02-DinhDucHieu-2A202603327-ObjectDetection.git
+- Link Colab đã chạy: 
 
 ## 2. Schema và mini guideline
 
